@@ -1,0 +1,1 @@
+This jupiter notebook identifies motifs in a DNA sequence and classifies it accordingly. The motif could occur once or more than once along the sequence of the nucleic acid. Recursion is used for analyzing the sequence.
